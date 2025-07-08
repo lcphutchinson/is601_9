@@ -6,6 +6,7 @@ This module introduces pgadmin, Postgres RDBMS, and general SQL to the CI/CD env
 
 7/8/2025-5pm. a Docker Hub internal issue is preventing the creation of new Repositories:
 ![Screenshot 2025-07-08 142854](https://github.com/user-attachments/assets/ba4a05fa-0a4d-4ffc-b140-25d55d8cd9ee)
+![Screenshot 2025-07-08 141203](https://github.com/user-attachments/assets/40c42d90-996b-4705-81cf-5b5746ed1149)
 
 If this issue is resolved before Module 9 is due, the proper environment variables and repository link will be added to this readme.
 
@@ -29,7 +30,7 @@ I really love working with database systems and have built apps with mariadb and
 
 ### A. Create Tables -- Users and Calculations
 
-![Screenshot 2025-07-06 090710](https://github.com/user-attachments/assets/7cdd18f7-6b5b-4c72-b302-e81914d8d190)
+![Screenshot 2025-07-08 123853](https://github.com/user-attachments/assets/9710a591-c86b-4930-9159-0b45e9e3beec)
 
 ![Screenshot 2025-07-08 123920](https://github.com/user-attachments/assets/fe1f5d73-db1b-4607-972a-729e4d8df70a)
 
