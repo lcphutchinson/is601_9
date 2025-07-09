@@ -75,8 +75,8 @@ jobs:
        with:
          push: true
          tags: |
-           lcphutchinson/is601_8:latest
-           lcphutchinson/is601_8:${{ github.sha }}
+           lcphutchinson/is601_9:latest
+           lcphutchinson/is601_9:${{ github.sha }}
          platforms: linux/amd64,linux/arm64
          cache-from: type=registry,ref=lcphutchinson/is601_8:cache
          cache-to: type=inline,mode=max
