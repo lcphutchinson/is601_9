@@ -10,6 +10,8 @@ This module introduces pgadmin, Postgres RDBMS, and general SQL to the CI/CD env
 
 If this issue is resolved before Module 9 is due, the proper environment variables and repository link will be added to this readme.
 
+**Update:** Dockerhub Repo Link [[Here]](https://hub.docker.com/repository/docker/lcphutchinson/is601_9)
+
 ## Reflection Portion
 
 I really love working with database systems and have built apps with mariadb and postgres in the past (and mongodb currently,) so the real boon of this module was the introduction of pgadmin and volumes in docker compose. How to maintain and modify a persistant backend on a remote machine really felt like the last gap in my experience with basic containerization, so I expect the upcoming module to be quite fruitful. I'm interested too in seeing an ORM (and perhaps a database migration) executed in a Python environment, as I have only built these services using Go, and only for one project.
